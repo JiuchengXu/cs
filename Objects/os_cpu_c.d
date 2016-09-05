@@ -1,0 +1,16 @@
+.\objects\os_cpu_c.o: src\uCOS\Ports\os_cpu_c.c
+.\objects\os_cpu_c.o: .\src\Include\libucos\os.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\os_cfg.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\cpu.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\cpu_def.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\cpu_cfg.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\cpu_core.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\lib_def.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\lib_mem.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\cpu_core.h
+.\objects\os_cpu_c.o: .\src\Include\app_cfg.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\lib_cfg.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\lib_str.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\lib_ascii.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\os_type.h
+.\objects\os_cpu_c.o: .\src\Include\libucos\os_cpu.h

@@ -1,0 +1,9 @@
+.\objects\lib_str.o: src\uCOS\LIB\lib_str.c
+.\objects\lib_str.o: .\src\Include\libucos\lib_str.h
+.\objects\lib_str.o: .\src\Include\libucos\cpu.h
+.\objects\lib_str.o: .\src\Include\libucos\cpu_def.h
+.\objects\lib_str.o: .\src\Include\libucos\cpu_cfg.h
+.\objects\lib_str.o: .\src\Include\libucos\lib_def.h
+.\objects\lib_str.o: .\src\Include\libucos\lib_ascii.h
+.\objects\lib_str.o: .\src\Include\app_cfg.h
+.\objects\lib_str.o: .\src\Include\libucos\lib_cfg.h

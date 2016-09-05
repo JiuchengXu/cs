@@ -1,0 +1,12 @@
+.\objects\cpu_core.o: src\uCOS\CPU\cpu_core.c
+.\objects\cpu_core.o: .\src\Include\libucos\cpu_core.h
+.\objects\cpu_core.o: .\src\Include\libucos\cpu.h
+.\objects\cpu_core.o: .\src\Include\libucos\cpu_def.h
+.\objects\cpu_core.o: .\src\Include\libucos\cpu_cfg.h
+.\objects\cpu_core.o: .\src\Include\libucos\lib_def.h
+.\objects\cpu_core.o: .\src\Include\libucos\lib_mem.h
+.\objects\cpu_core.o: .\src\Include\libucos\cpu_core.h
+.\objects\cpu_core.o: .\src\Include\app_cfg.h
+.\objects\cpu_core.o: .\src\Include\libucos\lib_cfg.h
+.\objects\cpu_core.o: .\src\Include\libucos\lib_str.h
+.\objects\cpu_core.o: .\src\Include\libucos\lib_ascii.h
